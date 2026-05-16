@@ -1,5 +1,7 @@
 -- Loiter Radius Control with Transmitter Knob
 -- Map a knob (e.g., RC6) to adjust WP_LOITER_RAD
+-- This scirpt could be used for any parameter that you would want to change in flight with a pot or slider.
+-- Only the parameter name and the values would need changing.
 
 local MAV_SEVERITY_EMERGENCY = 0
 local MAV_SEVERITY_ALERT     = 1
